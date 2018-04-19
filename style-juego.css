@@ -1,0 +1,54 @@
+#trivia1 {
+	background-color:  #802b00;
+	color: #ffffff;
+	visibility: hidden;
+}
+
+.preguntas {
+	background-color: #FBAE8B;
+	width: 60%;
+	display: inline-block;
+	text-align: center;
+}
+
+.posicion {
+	background-color: #B495E8;
+	display: inline-block;
+}
+
+p {
+	padding: 30px;
+}
+
+#trivia2 {
+	background-color:  #802b00;
+	color: #ffffff;
+	visibility: hidden;
+}
+
+#trivia3 {
+	background-color:  #802b00;
+	color: #ffffff;
+	visibility: hidden;
+}
+
+
+#tabla {
+	visibility: hidden;
+	text-align: center;
+}
+
+#boton1 {
+	text-align: left;
+	visibility: hidden;
+}
+
+#boton2 {
+	text-align: left;
+	visibility: hidden;
+}
+
+#boton3 {
+	text-align: left;
+	visibility: hidden;
+}
